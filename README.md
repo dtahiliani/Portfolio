@@ -1,3 +1,3 @@
 # Portfolio
 
-This repository contains example Data Analytics Projects
+This repository contains example Data Science and Analystics 
